@@ -11,7 +11,7 @@ composer require musaib/xml-builder
 ## Usage
 
 ```php
-use Musaib\XmlBuilder\XmlBuilder;
+use mmusaib\XmlBuilder\XmlBuilder;
 
 $xml = new XmlBuilder('products');
 
