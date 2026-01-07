@@ -5,13 +5,13 @@ A lightweight, fluent XML builder built on top of PHP's DOMDocument.
 ## Installation
 
 ```bash
-composer require musaib/xml-builder
+composer require mmusaib/xml-builder
 ```
 
 ## Usage
 
 ```php
-use Musaib\XmlBuilder\XmlBuilder;
+use mmusaib\XmlBuilder\XmlBuilder;
 
 $xml = new XmlBuilder('products');
 
