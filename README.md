@@ -78,11 +78,13 @@ This closes the root element:
 ```
 
 ## ✅ Why Use Streaming Mode?
-| Problem | Streaming Solves
-| Millions of records |	✔
-| Memory exhaustion |	✔
-| Chunked DB processing |	✔
-| Long-running jobs |	✔
+| Problem                | Streaming Solves |
+|------------------------|-----------------|
+| Millions of records    | ✔               |
+| Memory exhaustion      | ✔               |
+| Chunked DB processing  | ✔               |
+| Long-running jobs      | ✔               |
+
 
 
 ## Features
